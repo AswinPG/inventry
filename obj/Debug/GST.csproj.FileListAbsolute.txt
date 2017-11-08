@@ -1,0 +1,36 @@
+D:\GST\GST\GST\bin\Debug\GST.exe.config
+D:\GST\GST\GST\bin\Debug\GST.exe
+D:\GST\GST\GST\bin\Debug\GST.pdb
+D:\GST\GST\GST\obj\Debug\GST.csprojResolveAssemblyReference.cache
+D:\GST\GST\GST\obj\Debug\GST.Master.resources
+D:\GST\GST\GST\obj\Debug\GST.Properties.Resources.resources
+D:\GST\GST\GST\obj\Debug\GST.csproj.GenerateResource.Cache
+D:\GST\GST\GST\obj\Debug\GST.exe
+D:\GST\GST\GST\obj\Debug\GST.pdb
+D:\GST\GST\GST\obj\Debug\GST.FormMaster.resources
+D:\GST\GST\GST\obj\Debug\GST.Billing.resources
+D:\GST\GST\GST\obj\Debug\GST.Masterfrm.resources
+D:\GST\GST\GST\obj\Debug\GST.Purchase.resources
+D:\GST\GST\GST\obj\Debug\GST.Sales.resources
+D:\GST\GST\GST\obj\Debug\GST.Login.resources
+D:\GST\GST\GST\obj\Debug\GST.Stock.resources
+D:\my whole prgaram\GST\GST\GST\bin\Debug\GST.exe.config
+D:\my whole prgaram\GST\GST\GST\obj\Debug\GST.exe
+D:\my whole prgaram\GST\GST\GST\obj\Debug\GST.pdb
+D:\my whole prgaram\GST\GST\GST\bin\Debug\GST.exe
+D:\my whole prgaram\GST\GST\GST\bin\Debug\GST.pdb
+D:\my whole prgaram\GST\GST\GST\obj\Debug\GST.Billing.resources
+D:\my whole prgaram\GST\GST\GST\obj\Debug\GST.FormMaster.resources
+D:\my whole prgaram\GST\GST\GST\obj\Debug\GST.Login.resources
+D:\my whole prgaram\GST\GST\GST\obj\Debug\GST.Master.resources
+D:\my whole prgaram\GST\GST\GST\obj\Debug\GST.Masterfrm.resources
+D:\my whole prgaram\GST\GST\GST\obj\Debug\GST.Properties.Resources.resources
+D:\my whole prgaram\GST\GST\GST\obj\Debug\GST.Purchase.resources
+D:\my whole prgaram\GST\GST\GST\obj\Debug\GST.Sales.resources
+D:\my whole prgaram\GST\GST\GST\obj\Debug\GST.Stock.resources
+D:\my whole prgaram\GST\GST\GST\obj\Debug\GST.csproj.GenerateResource.Cache
+D:\my whole prgaram\GST\GST\GST\obj\Debug\GST.Choose_Firm.resources
+D:\my whole prgaram\GST\GST\GST\obj\Debug\GST.GSTDetails.resources
+D:\my whole prgaram\GST\GST\GST\obj\Debug\GST.csprojResolveAssemblyReference.cache
+D:\my whole prgaram\GST\GST\GST\obj\Debug\GST.FInd.resources
+D:\my whole prgaram\GST\GST\GST\obj\Debug\GST.search.resources
